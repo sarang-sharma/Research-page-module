@@ -1,0 +1,78 @@
+﻿HS Bhatt, R Singh, M Vatsa, ON CROSS SPECTRAL PERIOCULAR RECOGNITION,IIITD-TR-2015-002, 2015.
+HS Bhatt, R Singh, M Vatsa, Covariates of face recognition,IIITD-TR-2015-002, 2015.
+HS Bhatt, R Singh, M Vatsa, FACE RECOGNITION TECHNOLOGY: TWO APPROACHES-FEATURE BASED METHOD AND NEURAL NETWORK BASED METHOD,Information Forensics and Security, IEEE Transactions on 9 (7), 1056-1068, 2014.
+G Goswami, BM Powell, M Vatsa, R Singh, A Noore, Fusion, Sensor-Level,Future Generation Computer Systems 31, 59-68, 2014.
+D Yadav, N Kohli, JS Doyle, R Singh, M Vatsa, KW Bowyer, Can humans and automatic algorithms recognize look-alike faces?,Information Forensics and Security, IEEE Transactions on 9 (5), 851-862, 2014.
+S Barra, M De Marsico, M Nappi, D Riccio, Role of diagnostic laparohysteroscopy in the management of infertile females,Signal and Image Processing for Biometrics, 129-190, 2014.
+A Sharma, S Verma, M Vatsa, R Singh, Boosting Local Descriptors for Matching Composite and Digital Face Images,Image Processing (ICIP), 2014 IEEE International Conference on, 5007-5011, 2014.
+HS Bhatt, R Singh, M Vatsa, Video Data Management and Information Retrieval (Soft Cover),Information Forensics and Security, IEEE Transactions on 9 (7), 1056-1068, 2014.
+G Goswami, BM Powell, M Vatsa, R Singh, A Noore, Harnessing Social Context for Improved Face Recognition,Future Generation Computer Systems 31, 59-68, 2014.
+D Yadav, N Kohli, JS Doyle, R Singh, M Vatsa, KW Bowyer, A New Skin Color Based Face Detection Algorithm,Information Forensics and Security, IEEE Transactions on 9 (5), 851-862, 2014.
+S Barra, M De Marsico, M Nappi, D Riccio, Unconstrained Ear Processing: What is Possible and What Must Be Done,Signal and Image Processing for Biometrics, 129-190, 2014.
+A Sharma, S Verma, M Vatsa, R Singh, On cross spectral periocular recognition,Image Processing (ICIP), 2014 IEEE International Conference on, 5007-5011, 2014.
+P Gupta, S Behera, M Vatsa, R Singh, On iris spoofing using print attack,Pattern Recognition (ICPR), 2014 22nd International Conference on, 1681-1686, 2014.
+TI Dhamecha, P Sharma, R Singh, M Vatsa, On effectiveness of histogram of oriented gradient features for visible to near infrared face matching,Pattern Recognition (ICPR), 2014 22nd International Conference on, 1788-1793, 2014.
+M Singh, S Nagpal, R Singh, M Vatsa, On recognizing face images with weight and age variations,Access, IEEE 2, 822-830, 2014.
+G Goswami, R Bhardwaj, R Singh, M Vatsa, MDLFace: Memorability augmented deep learning for video face recognition,Biometrics (IJCB), 2014 IEEE International Joint Conference on, 1-7, 2014.
+P Agrawal, M Vatsa, R Singh, Saliency based mass detection from screening mammograms,Signal Processing 99, 29-47, 2014.
+S Bharadwaj, M Vatsa, R Singh, Biometric quality: a review of fingerprint, iris, and face,EURASIP Journal on Image and Video Processing 2014 (1), 1-28, 2014.
+HS Bhatt, R Singh, M Vatsa, On recognizing faces in videos using clustering-based re-ranking and fusion,Information Forensics and Security, IEEE Transactions on 9 (7), 1056-1068, 2014.
+G Goswami, BM Powell, M Vatsa, R Singh, A Noore, FaceDCAPTCHA: Face detection based color image CAPTCHA,Future Generation Computer Systems 31, 59-68, 2014.
+D Yadav, N Kohli, JS Doyle, R Singh, M Vatsa, KW Bowyer, Unraveling the effect of textured contact lenses on iris recognition,Information Forensics and Security, IEEE Transactions on 9 (5), 851-862, 2014.
+N Kohli, D Yadav, M Vatsa, R Singh, Design of face detection CAPTCHA for implementing robust security,Biometrics (ICB), 2013 International Conference on, 1-7, 2013.
+G Goswami, S Bharadwaj, M Vatsa, R Singh, Work in progress: A quantitative study of effectiveness in group learning,Biometrics: Theory, Applications and Systems (BTAS), 2013 IEEE Sixth , 2013.
+HS Bhatt, S Bharadwaj, R Singh, M Vatsa, Online Signature Recognition.,Information Forensics and Security, IEEE Transactions on 8 (1), 89-100, 2013.
+M Tistarelli, D Yadav, M Vatsa, R Singh, Memetic approach for matching sketches with digital face images,Fairhurst Meditor, Age Factors in Biometric Processing, IET, 253-275, 2013.
+P Mittal, A Jain, R Singh, M Vatsa, Short-and long-time ageing effects in face recognition,ICIP, 2797-2801, 2013.
+A Sankaran, T Dhamecha, M Vatsa, R Singh, Program Chairs Welcome to ICB 2013,Biometrics (IJCB), 2011 International Joint Conference on, 1-6, 2011.
+N Kohli, D Yadav, M Vatsa, R Singh, Multisensor Optical and Latent Fingerprint Database,Biometrics (ICB), 2013 International Conference on, 1-7, 2013.
+S Bharadwaj, TI Dhamecha, M Vatsa, R Singh, Memetic Approach for Matching Sketches with Digital Face Images,Computer Vision and Pattern Recognition Workshops (CVPRW), 2013 IEEE , 2013.
+G Goswami, S Bharadwaj, M Vatsa, R Singh, Video Biometrics,Biometrics: Theory, Applications and Systems (BTAS), 2013 IEEE Sixth , 2013.
+HS Bhatt, S Bharadwaj, R Singh, M Vatsa, Quality induced secure multiclassifier fingerprint verification using extended feature set,Information Forensics and Security, IEEE Transactions on 8 (1), 89-100, 2013.
+M Tistarelli, D Yadav, M Vatsa, R Singh, Short-and long-time ageing effects in face recognition,Fairhurst Meditor, Age Factors in Biometric Processing, IET, 253-275, 2013.
+P Mittal, A Jain, R Singh, M Vatsa, Boosting local descriptors for matching composite and digital face images.,ICIP, 2797-2801, 2013.
+TI Dhamecha, A Nigam, R Singh, M Vatsa, Disguise detection and face recognition in visible and thermal spectrums,Biometrics (ICB), 2013 International Conference on, 1-8, 2013.
+S Bharadwaj, M Vatsa, R Singh, Can holistic representations be used for face biometric quality assessment?,Image Processing (ICIP), 2013 20th IEEE International Conference on, 2792-2796, 2013.
+T Chugh, HS Bhatt, R Singh, M Vatsa, Matching age separated composite sketches and digital face images,Biometrics: Theory, Applications and Systems (BTAS), 2013 IEEE Sixth , 2013.
+HS Bhatt, R Singh, M Vatsa, On rank aggregation for face recognition from videos,Image Processing (ICIP), 2013 20th IEEE International Conference on, 2993-2997, 2013.
+A Sankaran, M Vatsa, R Singh, Automated clarity and quality assessment for latent fingerprints,Biometrics: Theory, Applications and Systems (BTAS), 2013 IEEE Sixth , 2013.
+D Yadav, M Vatsa, R Singh, M Tistarelli, Bacteria foraging fusion for face recognition across age progression,Computer Vision and Pattern Recognition Workshops (CVPRW), 2013 IEEE , 2013.
+P Agrawal, M Vatsa, R Singh, Hep-2 cell image classification: a comparative analysis,Machine learning in medical imaging, 195-202, 2013.
+N Kohli, D Yadav, M Vatsa, R Singh, Revisiting iris recognition with color cosmetic contact lenses,Biometrics (ICB), 2013 International Conference on, 1-7, 2013.
+S Bharadwaj, TI Dhamecha, M Vatsa, R Singh, Computationally efficient face spoofing detection with motion magnification,Computer Vision and Pattern Recognition Workshops (CVPRW), 2013 IEEE , 2013.
+G Goswami, S Bharadwaj, M Vatsa, R Singh, On RGB-D face recognition using Kinect,Biometrics: Theory, Applications and Systems (BTAS), 2013 IEEE Sixth , 2013.
+HS Bhatt, S Bharadwaj, R Singh, M Vatsa, Recognizing surgically altered face images using multiobjective evolutionary algorithm,Information Forensics and Security, IEEE Transactions on 8 (1), 89-100, 2013.
+SS Arora, M Vatsa, R Singh, A Jain, Available online at www. sciencedirect. com,Biometrics: Theory, Applications and Systems (BTAS), 2012 IEEE Fifth , 2012.
+N Kohli, R Singh, M Vatsa, Recognizing surgically altered face images,Biometrics: Theory, Applications and Systems (BTAS), 2012 IEEE Fifth , 2012.
+HS Bhatt, S Bharadwaj, R Singh, M Vatsa, Person Identification at a Distance via Ocular Biometrics,Information Forensics and Security, IEEE Transactions on 7 (5), 1522-1535, 2012.
+HS Bhatt, S Bharadwaj, R Singh, M Vatsa, On simultaneous latent fingerprint matching,IIITD-TR-2011-006, 2012.
+HS Bhatt, R Singh, M Vatsa, N Ratha, Is gender classification across ethnicity feasible using discriminant functions?,Image Processing (ICIP), 2012 19th IEEE International Conference on, 1453-1456, 2012.
+SS Arora, M Vatsa, R Singh, A Jain, Face Recognizing Robot,Biometrics (ICB), 2012 5th IAPR International Conference on, 336-341, 2012.
+SS Arora, M Vatsa, R Singh, A Jain, Person Identification at a Distance via Ocular Biometrics,Biometrics: Theory, Applications and Systems (BTAS), 2012 IEEE Fifth , 2012.
+N Kohli, R Singh, M Vatsa, FACE RECOGNITION TECHNOLOGY: TWO APPROACHES-FEATURE BASED METHOD AND NEURAL NETWORK BASED METHOD,Biometrics: Theory, Applications and Systems (BTAS), 2012 IEEE Fifth , 2012.
+HS Bhatt, S Bharadwaj, R Singh, M Vatsa, Face anti-spooﬁng via motion magniﬁcation and multifeature videolet aggregation,Information Forensics and Security, IEEE Transactions on 7 (5), 1522-1535, 2012.
+HS Bhatt, S Bharadwaj, R Singh, M Vatsa, Memetic approach for matching sketches with digital face images,IIITD-TR-2011-006, 2012.
+HS Bhatt, R Singh, M Vatsa, N Ratha, Matching cross-resolution face images using co-transfer learning,Image Processing (ICIP), 2012 19th IEEE International Conference on, 1453-1456, 2012.
+G Goswami, R Singh, M Vatsa, B Powell, A Noore, Face recognition captcha,Biometrics: Theory, Applications and Systems (BTAS), 2012 IEEE Fifth , 2012.
+A Sankaran, M Vatsa, R Singh, Hierarchical fusion for matching simultaneous latent fingerprint,Biometrics: Theory, Applications and Systems (BTAS), 2012 IEEE Fifth , 2012.
+H Mehrotra, M Vatsa, R Singh, B Majhi, Biometric match score fusion using RVM: A case study in multi-unit iris recognition,Computer Vision and Pattern Recognition Workshops (CVPRW), 2012 IEEE , 2012.
+SS Arora, M Vatsa, R Singh, A Jain, Iris recognition under alcohol Influence: a preliminary study,Biometrics (ICB), 2012 5th IAPR International Conference on, 336-341, 2012.
+SS Arora, M Vatsa, R Singh, A Jain, On iris camera interoperability,Biometrics: Theory, Applications and Systems (BTAS), 2012 IEEE Fifth , 2012.
+N Kohli, R Singh, M Vatsa, Self-similarity representation of Weber faces for kinship classification,Biometrics: Theory, Applications and Systems (BTAS), 2012 IEEE Fifth , 2012.
+HS Bhatt, S Bharadwaj, R Singh, M Vatsa, Memetically optimized MCWLD for matching sketches with digital face images,Information Forensics and Security, IEEE Transactions on 7 (5), 1522-1535, 2012.
+S Bharadwaj, H Bhatt, M Vatsa, R Singh, A Noore, Face Recognition Technology: A Biometric Solution to Security Problems,Computer Vision and Pattern Recognition Workshops (CVPRW), 2011 IEEE , 2011.
+M Vatsa, R Singh, A Noore, K Morris, Video Data Management and Information Retrieval (Soft Cover),Applied Soft Computing 11 (7), 4260-4266, 2011.
+HS Bhatt, S Bharadwaj, R Singh, M Vatsa, A Noore, A Ross, Mitigating the effect of covariates in face recognition,Biometrics (IJCB), 2011 International Joint Conference on, 1-7, 2011.
+HS Bhatt, S Bharadwaj, R Singh, M Vatsa, A Noore, Recognizing Altered Facial Appearances Due to Aging and Disguise,Automatic Face & Gesture Recognition and Workshops (FG 2011), 2011 IEEE , 2011.
+HS Bhatt, S Bharadwaj, R Singh, M Vatsa, On simultaneous latent fingerprint matching,IIITD-TR-2011-006, 2012.
+T Dhamecha, A Sankaran, R Singh, M Vatsa, Matching digital and scanned face images with age variation,Biometrics (IJCB), 2011 International Joint Conference on, 1-7, 2011.
+S Bharadwaj, H Bhatt, M Vatsa, R Singh, A Noore, HYBRID FUSION FOR MULTICHANNEL IRIS RECOGNITION,Computer Vision and Pattern Recognition Workshops (CVPRW), 2011 IEEE , 2011.
+A Sankaran, T Dhamecha, M Vatsa, R Singh, Program Chairs Welcome to ICB 2013,Biometrics (IJCB), 2011 International Joint Conference on, 1-6, 2011.
+M Vatsa, R Singh, A Noore, K Morris, OnEffectivenessofHistogramofOrientedGradientFeatures forVisibletoNearInfraredFaceMatching,Applied Soft Computing 11 (7), 4260-4266, 2011.
+HS Bhatt, S Bharadwaj, R Singh, M Vatsa, A Noore, A Ross, Composite Sketch Recognition via Deep Network-A Transfer Learning Approach,Biometrics (IJCB), 2011 International Joint Conference on, 1-7, 2011.
+HS Bhatt, S Bharadwaj, R Singh, M Vatsa, A Noore, Biometric Technologies,Automatic Face & Gesture Recognition and Workshops (FG 2011), 2011 IEEE , 2011.
+HS Bhatt, S Bharadwaj, R Singh, M Vatsa, Memetic approach for matching sketches with digital face images,IIITD-TR-2011-006, 2012.
+T Dhamecha, A Sankaran, R Singh, M Vatsa, Is gender classification across ethnicity feasible using discriminant functions?,Biometrics (IJCB), 2011 International Joint Conference on, 1-7, 2011.
+H Lamba, A Sarkar, M Vatsa, R Singh, A Noore, Face recognition for look-alikes: A preliminary study,Biometrics (IJCB), 2011 International Joint Conference on, 1-6, 2011.
+HS Bhatt, S Bharadwaj, M Vatsa, R Singh, A Ross, A Noore, A framework for quality-based biometric classifier selection,Biometrics (IJCB), 2011 International Joint Conference on, 1-7, 2011.
+S Bharadwaj, H Bhatt, M Vatsa, R Singh, A Noore, Quality assessment based denoising to improve face recognition performance,Computer Vision and Pattern Recognition Workshops (CVPRW), 2011 IEEE , 2011.
